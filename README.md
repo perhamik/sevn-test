@@ -1,2 +1,0 @@
-# sevn-test
-Sevn Test
