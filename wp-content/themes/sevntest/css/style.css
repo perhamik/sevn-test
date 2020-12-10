@@ -22,7 +22,7 @@ body, body > * {
 .header-w-bg {
     height: 679px;
     padding: 21px 68px 0px 104px;
-    background: linear-gradient(99.13deg, #043CAA -0.93%, rgba(4, 60, 170, 0.86) 45.66%, rgba(4, 60, 170, 0) 103.96%), url('../img/header-bg.png');
+    background: linear-gradient(99.13deg, #043CAA -0.93%, rgba(4, 60, 170, 0.86) 45.66%, rgba(4, 60, 170, 0) 103.96%), url('https://perhamik.github.io/sevn-test/wp-content/themes/sevntest/img/header-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 46%;
@@ -156,7 +156,7 @@ section {
     min-height: 13px;
     min-width: 13px;
     margin-right: 23px;
-    background: url('../img/exclude.svg');
+    background: url('https://perhamik.github.io/sevn-test/wp-content/themes/sevntest/img/exclude.svg');
     background-origin: border-box;
     background-repeat: no-repeat;
 }
